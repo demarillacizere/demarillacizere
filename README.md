@@ -5,6 +5,10 @@ I'm Demarillac.
 🌱 I’m currently learning PHP and Python
 
 ### :hammer_and_wrench: Languages and Tools :
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarillacizere&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **demarillacizere/demarillacizere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
