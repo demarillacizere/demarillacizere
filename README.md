@@ -3,6 +3,8 @@
 I'm Demarillac.
 
 🌱 I’m currently learning PHP and Python
+
+### :hammer_and_wrench: Languages and Tools :
 <!--
 **demarillacizere/demarillacizere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
