@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Demarillac.
+
+🌱 I’m currently learning PHP and Python
 <!--
 **demarillacizere/demarillacizere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
