@@ -2,10 +2,10 @@
 
 I'm Demarillac.
 
-- 🔭 I’m currently working on a python project
+- 🔭 I’m currently working on a cool python project
 - 🌱 I’m currently learning all about PHP and Python
 - 👯 I’m looking to collaborate on any amazing Python/PHP/Javascript projects
-- 📫 Reach out to me on email at: izered3@gmail.com
+- 📫 Reach out to me by email at: izered3@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
