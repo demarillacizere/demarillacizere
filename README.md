@@ -2,7 +2,7 @@
 
 I'm Demarillac.
 
-- 🔭 I’m currently working on a cool Python project.
+- 🔭 I’m currently contributing in Open Source.
 - 🌱 I’m currently learning all about PHP and Python.
 - 👯 I’m looking to collaborate on any amazing Python/PHP/Javascript projects
 - 📫 Reach out to me by email at: izered3@gmail.com
