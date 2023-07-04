@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Demarillac Izere.
+I'm Demarillac.
 
 - 🔭 I’m currently contributing in Open Source.
 - 🌱 I’m currently learning all about PHP and Python.
