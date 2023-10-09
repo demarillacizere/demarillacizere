@@ -1,11 +1,12 @@
 ### Hii there 👋
 
 I'm Demarillac Izere.
+An aspiring junior developer with an unwavering passion for backend development and problem-solving.
 
-- 🔭 I’m currently 
-- 🌱 I’m currently learning all about PHP and Python.
-- 👯 I’m looking to collaborate on any amazing Python/PHP/Javascript projects
+- 🌱 I’m currently learning PHP with Laravel and Symfony Frameworks.
+- 👯 I’m looking to collaborate on any amazing Python/PHP/Javascript projects.
 - 📫 Reach out to me by email at: izered3@gmail.com
+- 😄 I dare you to dare me: I thrive on solving challenges 🤓
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -13,7 +14,7 @@ I'm Demarillac Izere.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarillacizere&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demarillacizere&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-ashy.vercel.app/api?username=demarillacizere)](https://github.com/demarillacizere/github-readme-stats)
 <!--
 **demarillacizere/demarillacizere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +26,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
