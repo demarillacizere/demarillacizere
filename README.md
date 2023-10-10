@@ -10,7 +10,7 @@ An aspiring junior developer with an unwavering passion for backend development 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarillacizere&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarillacizere&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 [![Github stats](https://github-stats-ashy.vercel.app/api?username=demarillacizere&show_icons=true&theme=dark&rank_icon=github&hide_title=true)](https://github.com/demarillacizere/github-readme-stats)
 <!--
