@@ -6,7 +6,7 @@ An aspiring junior developer with an unwavering passion for backend development 
 - 🌱 I’m currently learning PHP with Laravel and Symfony Frameworks.
 - 👯 I’m looking to collaborate on any amazing Python/PHP/Javascript projects.
 - 📫 Reach out to me by email at: izered3@gmail.com
-- 😄 I dare you to dare me: I thrive on solving challenges 🤓
+- 😄 I dare you to dare me: I thrive on Challenges 🤓
 
 ### :fire: My Stats :
 
