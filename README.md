@@ -8,8 +8,6 @@ An aspiring junior developer with an unwavering passion for backend development 
 - 📫 Reach out to me by email at: izered3@gmail.com
 - 😄 I dare you to dare me: I thrive on solving challenges 🤓
 
-### :hammer_and_wrench: Languages and Tools :
-
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarillacizere&theme=dark&background=000000)](https://git.io/streak-stats)
