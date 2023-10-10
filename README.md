@@ -12,7 +12,7 @@ An aspiring junior developer with an unwavering passion for backend development 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarillacizere&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Github stats](https://github-stats-ashy.vercel.app/api?username=demarillacizere&show_icons=true&theme=dark)](https://github.com/demarillacizere/github-readme-stats)
+[![Github stats](https://github-stats-ashy.vercel.app/api?username=demarillacizere&show_icons=true&theme=dark&rank_icon=github)](https://github.com/demarillacizere/github-readme-stats)
 <!--
 **demarillacizere/demarillacizere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
