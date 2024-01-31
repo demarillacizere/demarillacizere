@@ -1,7 +1,7 @@
 ### Hii there 👋
 
 I'm Demarillac Izere.
-An aspiring junior developer with an unwavering passion for backend development and problem-solving.
+An aspiring junior developer with an unwavering passion for backend development, problem-solving and Open Source.
 
 - 🌱 I’m currently learning PHP with Laravel and Symfony Frameworks.
 - 🌱 Currently looking for a role as a junior software developer.
