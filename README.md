@@ -4,7 +4,7 @@ I'm Demarillac Izere.
 A junior developer with an unwavering passion for backend development, problem-solving and Open Source.
 
 - 🌱 I’m currently learning PHP with Laravel and Symfony Frameworks.
-- 🌱 Currently looking for a role as a junior software developer.
+- 🌱 Currently looking for a role as a junior software developer and exploring open source opportunities.
 - 👯 I’m looking to collaborate on any amazing Python/PHP/Javascript projects.
 - 📫 Reach out to me by email at: izered3@gmail.com
 - 😄 I thrive on Challenges 🤓
