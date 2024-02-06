@@ -7,7 +7,7 @@ A junior developer with an unwavering passion for backend development, problem-s
 - 🌱 Currently looking for a role as a junior software developer and exploring open source opportunities.
 - 👯 I’m looking to collaborate on any amazing Python/PHP/Javascript projects.
 - 📫 Reach out to me by email at: izered3@gmail.com
-- 😄 I thrive on Challenges 🤓
+- 😄 I enjoy learning and I thrive on Challenges 🤓
 - ⚡ Fun fact: I'm a semi-professional baker on the weekends (cake for anyone?) 🧁🍰🤓
 
 <!--### :fire: My Stats :
