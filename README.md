@@ -1,10 +1,9 @@
 ### Hello there 👋
 
 I'm Demarillac Izere.
-A junior developer with an unwavering passion for backend development and problem-solving.
+A software developer with an unwavering passion for backend development and problem-solving.
 
 - 🌱 I’m a continous learner.
-- 🌱 Currently looking for a role as a junior software developer and exploring open source opportunities.
 - 👯 Looking forward to collaborating on any amazing Python/PHP/Javascript projects.
 - 📫 Reach out to me by email at: izered3@gmail.com
 - 😄 I enjoy learning and I thrive on Challenges 🤓
